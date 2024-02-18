@@ -79,7 +79,7 @@ assert not any(df['dbn'].value_counts() < 5)
 
 I created a pie chart titled "Ethnic demographics". The chart shows ethnic demographics from the 2013-2018 Demographic Snapshot School. The sections of the pie chart represent the percentage of different racial groups in the whole. Specifically:
 
-![Ethnic demographics](./images/Ethnic demographics.png)
+![Ethnic demographics](https://github.com/dbdesign-students-spring2024/3-spreadsheet-analysis-WeijiaLinaSun/blob/main/images/Ethnic%20demographics.png)
 
 * "Hispanic_sum" is the largest group at 40%.
 * "Black_sum" is the second largest at 27%.
